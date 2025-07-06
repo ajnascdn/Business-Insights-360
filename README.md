@@ -1,4 +1,4 @@
-# usiness Insights 360: Power BI Dashboard Project
+# Business Insights 360: Power BI Dashboard Project
 Empowering Businesses with Effective Insights
 
 ## 🔍 Project Overview
